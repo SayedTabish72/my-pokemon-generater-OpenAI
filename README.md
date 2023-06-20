@@ -1,17 +1,5 @@
 # Custom Pokémon Generator with OpenAI ChatGPT & DALL-E in Next.js
-
-Demo for tutorial [How to Use AI to Generate a Custom Pokémon with OpenAI ChatGPT & DALL-E](https://www.youtube.com/watch?v=BQPqqQLGweM)
-
-📝 Article: https://spacejelly.dev/posts/how-to-use-ai-to-generate-a-custom-pokemon-with-openai-chatgpt-dall-e/
-
-📺 YouTube: https://www.youtube.com/watch?v=BQPqqQLGweM
-
-🚀 Demo: https://my-pokemon-generator.vercel.app
-
-## More tutorials and walkthroughs
-
-🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
-
-📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
-
-✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
+• built a robust system that allowed users to create custom Pokémon cards project using Next.js, Node.js, and SCSS.
+Integrated DALL·E API to fetch Pokémon details and dynamically generate cards with a single button click.
+• By leveraging this API, users could fetch accurate data and generate visually appealing Pokémon cards by simply
+click the button.
